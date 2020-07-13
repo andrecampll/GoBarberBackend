@@ -6,6 +6,7 @@ node_modules
 build/
 tmp/
 ormconfig.json
+dist
 
 tmp/*
 !tmp/.gitkeep
